@@ -1,0 +1,1932 @@
+﻿1
+
+I'm sorry Claire, I couldn't hear
+you over the announcement.
+
+No problem. So just
+checking if my audio is
+
+good and if you can see
+my screen, everything
+
+looks good from my
+end. I can hear you loud
+
+and clear and yeah
+the screen is visible, so
+
+this session's all
+yours. Thank you.
+
+Appreciate it. All right, sorry
+for the delays here due to
+
+technical issues but now
+I'm back. Hey everyone,
+
+thanks for joining. This
+is just a quick overview
+
+of what you've already
+probably learned regarding
+
+the business analysis and
+how the end-to-end might look.
+
+I will just try to paint
+a good picture for
+
+you guys on what things are
+key in the current day and age.
+
+There is a lot of redundant information about
+business analysis out there and the team
+
+wanted to put this
+together so you guys are
+
+more on the current page
+and are aware of what
+
+technologies and what concepts of business
+analysis is being adopted by a lot of these
+
+organizations out there.
+So the first thing that
+
+we look at is to define good
+business goals and objectives.
+
+Usually when you
+think about a product
+
+and you're trying to
+develop it, you are focused
+
+on the key results. You
+have to define a good
+
+business objective. So
+if you define your goals
+
+clear enough and precise
+enough, then you should
+
+be able to achieve the
+end product right. It's
+
+a very well good job done. So that is why
+defining a good business objective and goal
+
+is important and a lot of us follow this
+methodology called SMART where the goal needs
+
+to be specific, measurable
+in terms of how long
+
+it might take and how
+achievable it is and how
+
+realistic it is and what is the timing
+that it might take to accomplish that goal.
+
+So the OKR for the abbreviation is the key
+results and these define the objectives.
+
+If you think about a newly stand-up project,
+it's broken down quarterly based mostly.
+
+So each quarter the team
+has certain goals to meet.
+
+So all your sprint goals,
+your day-to-day sprint
+
+activities kind of sum up into achieving
+that goal that's defined for that quarter.
+
+So these key results are mostly
+defined based on the output.
+
+So for example, increase market position
+within the autonomous delivery market.
+
+So you as business analysts
+are probably coming up
+
+with the key results in collaboration with
+your product owners and product managers.
+
+If you are focused on
+engineering and development
+
+side of things, you are
+also probably focused on
+
+the outcomes where
+you can measure things.
+
+For example, how do
+you achieve a top position
+
+in a competitive market? How do you define
+that? You come up with a gap analysis or
+
+market value ratio and things like that and
+come up with the percentages on how much of
+
+an improvement you
+want to see in your product
+
+and go from there. So
+the five components of a
+
+good objective is defining the activity and
+the scope and what benefit it gives to the
+
+organization and what value would the end
+customer receive from what you're developing
+
+and what is the business
+value. It just sums up
+
+into a wholesome
+business goal and objective.
+
+This is just the high
+level. This is like an entry
+
+point right to your
+projects. When you join an
+
+organization, you are
+probably given a lot of
+
+documentation to go
+through and you're wondering
+
+where to start, where to
+begin and it's important
+
+for you to understand
+the objectives of that
+
+particular project in order
+to see the bigger vision.
+
+Although you're not making a huge contribution
+to defining these objectives maybe,
+
+sometimes you are
+playing a crucial role in
+
+probably part of the organization where
+they're developing and you don't have
+
+insight into all of this
+for the company but
+
+definitely there should
+be some documentation
+
+at hand for you to go through
+and understand the objectives.
+
+Next up, you are familiar with
+
+waterfall and agile.
+The basic difference is
+
+waterfall is very linear.
+You go from phase to phase.
+
+It takes however
+long it takes for each
+
+phase and user gets the
+end product at the very
+
+end of the waterfall
+methodology. But incremental
+
+delivery is what the
+current organizations are
+
+adopting mostly because
+they see that the user
+
+gets value from each
+iterative term that you work
+
+on a certain product
+development.
+
+So basically just dividing
+the whole year or the duration
+
+of the project into iterative sprints
+or iterative weeks, however it's useful
+
+for your organization
+and coming up with tiny,
+
+small, achieving small
+goals at every iteration
+
+and learning from them and learning
+and applying all the learnings to the next
+
+sprint so that the user
+gets a better value.
+
+There's more improvement
+with every sprint
+
+and every product
+development life cycle you
+
+go through between
+those little iterations.
+
+So there are multiple ways of
+following the agile methodology.
+
+There's scrum which is the most
+
+famous, most widely
+used I would say.
+
+Some teams also use Kanban
+or you've probably also heard
+
+about Azure DevOps
+which is just a tool where
+
+the organizations are
+tracking end-to-end
+
+visibility into a project. Usually
+with scrum they use Jira.
+
+If you are familiar
+with Jira you'd know
+
+that they would track
+the progress of this work
+
+done and how the velocity
+and things like that in Jira.
+
+This is very superficial,
+does not give
+
+any insight into what
+development work is going on
+
+and the release cycle, the pipelines and
+things like that but Azure DevOps is built
+
+to give that end-to-end
+picture for the users so
+
+a lot of companies are
+adopting that particular
+
+tool at the moment. As
+you know scrum follows
+
+sprint iterations. They're
+usually two weeks
+
+iterations but Kanban
+can also follow the same
+
+life iteration or
+duration but it does not
+
+have a defined structure
+to a sprint or they
+
+do not have like a
+defined structure to tasks
+
+where they estimate tasks
+and you know it's more random.
+
+Kanban is adopted
+where they don't have to
+
+follow a clear pathway I
+would say to the end product.
+
+So understanding the
+organization team roles.
+
+Now that you know
+the business objective
+
+you try to understand
+what team are you part of
+
+and what is the organizational
+hierarchy and where
+
+do you stand in that
+hierarchy. Are you reporting
+
+to an engineering manager
+where you are a support
+
+system for the developers
+and you're translating
+
+business requirements,
+you are more engaged into
+
+the system requirements
+or are you part of the
+
+business group where you are defining the
+requirements, you are actually gathering the
+
+requirements and
+documenting them and you know
+
+supporting the user
+acceptance testing in the end.
+
+So it's important for
+you to understand where
+
+your role lies in the
+organizational hierarchy
+
+and what your job duties are.
+
+So product management consists
+of basically the journey owner
+
+and product manager.
+They kind of share their
+
+roles in some organizations.
+They sometimes work together.
+
+Sometimes it's just
+one person who is a
+
+product manager. They
+have the end-to-end idea of
+
+the business, how the business runs,
+what expectations are there from the higher
+
+management. They usually
+report back to the higher
+
+levels in the organization.
+Basically they're
+
+bringing value from
+their conversations with
+
+the business expectations
+and stakeholders and
+
+multiple stakeholders in a
+company probably gather
+
+and talk through the vision
+and you know they come
+
+up with the roadmap.
+They basically define the
+
+value on how to optimize
+customer experience
+
+with the product that
+you are developing.
+
+Agile team kind of sits side
+by side to product management
+
+where the product
+owner is a key player.
+
+Sometimes the business
+analyst is also a product owner.
+
+They're expected to at
+least understand even if
+
+they don't have any
+domain experience or they
+
+don't have a huge insight
+into the business, how
+
+the business functions.
+They are familiar with
+
+the concepts such as how you connect with
+your customer, how you engage with your
+
+customer, how you elicit requirements
+and talk to the product manager about
+
+how to prioritize
+the backlogs, what is
+
+priority and how you
+bring them into the sprint.
+
+Like I already mentioned about the goals.
+Every quarter they probably have
+
+three key results they want to see and
+they prioritize the backlog based on that.
+
+So if you are interested
+in that area, a product
+
+owner is a role that is
+truly more focused on the
+
+business side things. Now there's also the
+development team of course in Agile team.
+
+They are actually
+working on the product.
+
+So all the team backlog
+they work through the backlog.
+
+They follow the priority
+product owner provides to them.
+
+They build and test and deliver the
+products incrementally. Sometimes a business
+
+analyst is part of this development team
+and they're working very closely with the
+
+development team where
+they're testing the end
+
+product that the developers develop and
+documenting the defects, ensuring that the
+
+business value is carried throughout
+the development and ensuring that any
+
+issues, any critical
+things that come up during
+
+development is reported
+back to the product owner
+
+so that they are aware and just
+building a gap or a bridge between the
+
+product owner and
+the development team.
+
+The scrum master is someone
+who is very aware of the Agile
+
+methodologies and they ensure that the team
+follows the scrum practices. They keep you,
+
+they make sure that you're not handling or
+going through any blockers or impediments.
+
+They check on with you
+day to day which is nothing
+
+but the daily stand-ups
+right. They just want to
+
+make sure that you're on
+track to achieving the sprint goal.
+
+They want to make
+sure that you are
+
+understanding what iterative development
+means. If you are, you know, you have a
+
+discussion with the
+development team or the
+
+business team that is
+going away from the topic,
+
+they kind of bring you
+back. So they kind of keep
+
+you focused on the sprint
+goal. So they're kind of
+
+the gatekeeper for
+that. So that's what the
+
+scrum master does.
+So this is like a high level
+
+of understanding what your
+role is within an organization.
+
+Next, obviously every scrum team
+
+will have a product
+goal which is defined by
+
+the product owner
+and basically your team,
+
+the scrum team is something that has to be
+self-managing and you will have different
+
+members of from
+different teams put together
+
+so that it just makes
+your life easy right with
+
+you know engaging with them day to day.
+For example, if you think about
+
+probably a customer
+service team right.
+
+So they are interacting with
+the end customers day to day.
+
+How will your development team know
+about what their challenges are or what
+
+pain points they're facing
+and what things they
+
+would like to see
+developed right in the product
+
+and because they are the people interacting
+with the end customer. So in that case,
+
+the organizations usually find a
+subject matter expert who are nothing but
+
+sneeze right. They bring
+them in into the team
+
+so that they can provide
+internal insights right to that team.
+
+That's just one team.
+
+If you think about Amazon
+website, you can think about the
+
+payments and checkout.
+You can think about the
+
+search team as one team.
+You can think about the
+
+product detail page
+team as one team.
+
+So bringing all of them
+together is what scrum does.
+
+You will have sneeze from
+every side of the organization
+
+that touches that product
+and you are getting
+
+inputs from all of those
+people and you have to
+
+consider when you're
+coming up with your tasks
+
+and priorities you're engaging
+with all of these people.
+
+Sometimes a business analyst also has separate
+meetings with these people just to keep
+
+give the time back to
+the developers to focus on
+
+the sprint goals right.
+So you are in meetings
+
+getting requirements and
+you know thinking through
+
+the future just preparing
+the backlog for the next
+
+couple of sprints
+is your goal right.
+
+So you are making sure all
+the information in there is up
+
+to date and current. You are
+tracking all the dependencies.
+
+You're ensuring all these sneeze are aware
+of what the development is what development
+
+is happening in the
+team and things like that.
+
+So very interactive
+self-managing and cross-functional.
+
+This is a journey map. I know it's not too
+
+it's probably not very visible right.
+Let me try to zoom in.
+
+Okay all right so
+that's the journey map.
+
+This is just one template
+that a product owner or
+
+a business analyst might
+use. This has a list of
+
+things such as if you
+think about an end-to-end
+
+flow of you know creating
+a patient's you know
+
+interaction with an app
+probably they will have
+
+to manage their medical
+appointments in an app.
+
+They probably have to
+book another appointment.
+
+If they want to reschedule that appointment
+they should have that capability to do it
+
+and they should be able
+to hold the appointment
+
+time and probably also
+follow some app have some
+
+follow-up activities right. So that is the
+workflow that is the journey of a patient
+
+when they're using an app. So this template
+outlines the outcomes of each of this
+
+activity that they perform
+on an app and what
+
+human interactions and
+sister interactions there
+
+are and how does the
+patient feel about that
+
+particular capability
+and if they have any pain
+
+points with you know
+each of these steps and how
+
+what is the level of
+satisfaction they have how
+
+how do they rate the
+application when they
+
+consider each of these
+elements in the UI right
+
+and any ideas of improvement
+all of these things are captured.
+
+What does this give you?
+
+It gives you an end-to-end
+picture of what the actual user
+
+of your map or of your
+app is looking into right
+
+how are they interacting.
+So from this you can
+
+come up with a lot of
+improvements that you can
+
+make to the app how
+can you can look at this
+
+and say hey these are
+these are n number of pain
+
+points with this workflow
+can we make this better
+
+and alleviate some of
+these pain points in the
+
+next sprint for the user
+if there is so okay the
+
+next step would probably
+be oh who else uses this
+
+manage all medical
+appointments workflow right so
+
+if there is another user
+and they have the same
+
+pain point they want
+to make sure that it's
+
+highlighted to the business
+and they want to make
+
+sure that there is a
+solution out there for them
+
+to you know like elevate
+that point and that's a
+
+huge win for the team
+right so these are just some
+
+templates that we use to
+document the user journey
+
+how they are rating the application
+just ensuring that they're following the
+
+what the app is intended
+to do sometimes there
+
+is a learning curve if
+it's a new person using
+
+an app obviously they
+have to go through some
+
+training right so this
+map just helps you
+
+distinguish or this these
+kind of templates that
+
+just help you understand
+those things so this
+
+i think is a very good
+exercise if you are
+
+standing a project
+from ground up so this is
+
+the initial analysis
+that you'll be part of or
+
+probably iterative right
+if you want to continue
+
+doing that you send
+surveys to the customers
+
+you come up with a own
+set of questions where
+
+quantifiable answers
+are given right and you
+
+come up with like charts
+you know just to show
+
+the customer satisfaction
+or appreciation of the
+
+map so there's a lot of
+you know work that goes
+
+into the initial standing
+up of a product so how
+
+would a story map look
+like this is more from the
+
+scrum perspective story
+mapping is an exercise is
+
+a similar exercise where
+you look at the end-to-end
+
+life cycle of a customer
+using a workflow for
+
+example managing an
+email and then breaking this
+
+is very high level so there
+are users who are your
+
+personas right in a user
+story and then there are
+
+goals right these are
+very high level then you
+
+break it down into
+activities activities are
+
+majorly like high level
+activities again tasks
+
+performed when you
+think about that workflow
+
+of managing emails they they basically
+write read and delete an email these are the
+
+basic functions that you require when
+they when you think about managing an email
+
+right and then there
+are if you want to further
+
+break down writing an
+email there is creating and
+
+sending a basic email they're probably just
+opening a text email or deleting the email
+
+right so that is your
+minimum viable product that
+
+is the basic skeleton
+product that you want to
+
+stand up that is your
+priority and everything else
+
+that is an enhancement
+will take time and then
+
+that can be deprioritized and that comes
+later in your journey right as in the scrum
+
+so this is how you story
+map you're just sitting
+
+with a bunch of people
+that are involved in the
+
+product development and you basically
+use a whiteboard storyboard to come up with
+
+you know any topic that's
+given to you and what
+
+you can think of and
+then arranging the the
+
+sticky notes or you know
+the post-its or whatever
+
+in the right order and
+then coming up with a
+
+minimum viable product this is a pretty
+interesting exercise that i really enjoy
+
+and i've enjoyed doing
+over the course of time
+
+because you kind of
+understand the mindset of
+
+the company right what
+they're focused on and
+
+where they're going so
+it's a good thing to have
+
+the end-to-end understanding of this vision
+right next slide i have the scrum artifacts
+
+you are aware of a black backlog there is
+a product backlog which is very high level
+
+requirements from the
+waterfall methodology if you
+
+think of they are written
+in form of user stories
+
+and there is a sprint backlog this is
+each product requirement broken down into
+
+development oriented tasks
+right and then each increment is
+
+every like the prioritized
+task for each sprint
+
+basically so how is
+the quality of a product
+
+backlog is it's deep
+as in it's detail oriented
+
+it's estimated so you
+give the task certain
+
+weightage right of how
+long they might take and
+
+all of that will sum
+up to if you look at the
+
+right hand bottom corner here you will see
+there is um sorry let me zoom in okay oops
+
+okay so a product backlog
+probably has a hundred
+
+points worth of user
+stories right that that is
+
+probably an epic which
+which is huge it's not
+
+broken down it's very
+high level it's a business
+
+requirement then further
+down the lane you will
+
+go into building like
+broking breaking them down
+
+into further um achievable
+estimatable um stories
+
+that's a word um and this
+these points are usually
+
+two to three sprints worth right so you
+can probably finish the whole epic in like
+
+three to four uh sprints which is um if you
+think about a sprint as two week duration
+
+um this is how you would
+um estimate um so um
+
+usually product owners
+follow this methodology
+
+called moscow uh to
+prioritize the backlog um which
+
+is must have should
+have could have won't have
+
+um you can have in jira
+you can have labels uh
+
+attached to each of these
+tasks um and you can
+
+prioritize them you can
+also have play with it uh
+
+with reporting and things
+like that so it's pretty
+
+cool um what's a user
+story you are probably aware
+
+of functional user
+stories but there are also
+
+technical user stories
+these are mostly written
+
+from the systems
+perspective in order to achieve
+
+a certain thing um in
+a system uh what is a
+
+technical task that
+needs to be performed so
+
+when you write user
+stories there they follow
+
+the invest model uh
+again this acronym is pretty
+
+important where you
+understand each of these um
+
+what it stands for right
+each of each letter in
+
+that model stands
+for um the stories are
+
+independent they're
+negotiable what and why is
+
+defined um value they they
+you cannot break down a
+
+story point where it
+doesn't provide value to this
+
+to the goal like the sprint goal right um
+and then it is split into the small enough
+
+stars so that it is
+estimable i can get into the
+
+story sizing a little bit
+uh but it's the smallest
+
+task you can you should
+be able to break it down
+
+uh to a level where it's
+it makes sense basically
+
+and that it is testable
+right it has an acceptance
+
+criteria um so if you look
+at this um the example
+
+of um the story sizing
+points here um adding
+
+a single or limited
+fields so think of a form
+
+where you're adding a
+name for a developer it's
+
+a very minor task right
+so they're probably just
+
+enabling some user
+field they named it they're
+
+making sure that it
+functions well for the user
+
+they're basically just entering a string of
+characters in a field that's probably a one
+
+point user story for them
+and uh if any validation
+
+needs to be added
+external additional validation
+
+such as you know the
+user store uh the name field
+
+the first name field should
+always have a capital
+
+first letter or it should
+only uh have like 10
+
+characters those are
+the validation rules that
+
+they build and that is
+probably a two point worth
+
+um for user story so
+they build up based on um
+
+you know the complexity
+of the user story how long
+
+it might take to um you
+know complete that user
+
+story so um if like this
+is an unsaid rule uh
+
+what i've observed is um
+scrum masters kind of go
+
+hey why is the user
+story more than 13 points
+
+right so they want the
+user story to be less
+
+than 13 points if it's
+going over 13 points they
+
+ask you a question if you
+can break it down further
+
+into probably a three
+pointer or a five pointer
+
+um and um just think
+about it um so they question
+
+uh if it can be further
+broken down because an
+
+13 pointer will probably
+take you two weeks right
+
+to develop it test it uh put it into the qa
+bucket test there and go through the stress
+
+testing and things like
+that and come to the user
+
+acceptance testing and
+then release to the end
+
+customer right so it
+takes a long time so they
+
+want to make sure that
+any user story that you're
+
+bringing into a sprint
+in the two-week iteration
+
+is complete before um
+closing the sprint so that
+
+is the goal um so how do
+you come up with points uh
+
+is um if if your organization
+does not already have
+
+a way of estimating
+this usually comes from
+
+going through several
+cycles of sprint right
+
+so they start with sprint zero uh they ask
+you to estimate if you've estimated a two
+
+two pointer right two for
+a one pointer user story
+
+uh in the first sprint you
+go through the second
+
+sprint you go through
+the third sprint so with
+
+experience you will
+understand how long it might
+
+take for you to complete a user story what
+dependencies there are uh if you've called
+
+out all the dependencies
+in the user story and
+
+everything if the
+acceptance criteria is good
+
+there are no questions
+right um no lingering
+
+questions and no
+follow-ups everything looks
+
+good you get an idea
+by the third sprint on what
+
+a one pointer might look
+like what a two pointer
+
+might look like so that is what will define
+how you give story points to a user story
+
+i hope that's clear you
+just go through it and you
+
+will understand uh you
+should just have a basic
+
+idea of why you are
+giving the story points and
+
+um depending on how
+many story points you bring
+
+into a sprint that is
+considered the velocity
+
+right like not how much
+you bring in but how much
+
+you finish in a sprint
+is called velocity so that
+
+is also something that
+you have to be aware of
+
+uh so the key differences
+between waterfall agile
+
+um you have business
+requirements and functional
+
+requirements and waterfall
+um and in agile mostly
+
+user stories they follow
+a certain format business
+
+requirements are very
+high level but functional
+
+requirements are more
+systematic system behaviors
+
+systemic behaviors and
+they're very detailed um
+
+so it's also important
+for a business analyst to
+
+understand the definition
+of done um what is the
+
+definition of done for
+release right so this is
+
+probably after a couple
+of sprints you're releasing
+
+a product to the end
+customer and uh you want to
+
+define the done definition
+right for that release
+
+which is nothing but
+all of the testing is
+
+complete all critical
+and high priority defects
+
+are closed there is uh
+the exit criteria for that
+
+release has been
+complete so you're asking a
+
+question whether it's
+ready for the end customer
+
+that is ready to release
+to production now um
+
+sprint also has a
+similar criteria which is
+
+have all the defects closed did you review
+the product with the stakeholders and
+
+gotten their feedback
+and then that you have like
+
+release notes each
+release will have notes right
+
+so you have to know what
+was developed during that
+
+sprint and it's usually
+the business analyst job
+
+or someone from the
+developer's side if they cannot
+
+i mean if they want to add
+more like developmental
+
+notes right development
+side of notes they would
+
+add those um what is a
+done a definition of done
+
+for story you want to make
+sure that the acceptance
+
+criteria is met all the
+unit tests and user
+
+acceptance tests are
+complete and uh all the
+
+code that has been
+developed is sent to the right
+
+pipeline right it's
+sitting at the right
+
+environment and it won't
+be touched again just
+
+mean uh just making
+sure that the goal of the
+
+sprint is achieved and
+the user story is basically
+
+um you know like it's
+tested and it's all done
+
+um and it's secure um
+so these are this is also
+
+important for you to define
+hey when you define the
+
+ways of working what
+does the definition of done
+
+um some of the scrum
+ceremonies you would see
+
+day to day um would
+be if you think of a sprint
+
+it usually goes from a
+tuesday to wednesday or
+
+a wednesday to tuesday
+um usually teams try to
+
+stay away from a monday
+start to us to a sprint
+
+or a friday start to a
+sprint because it's more
+
+like weekends right and
+they do not want any new
+
+uh i new development
+starting like on mondays
+
+because you're probably
+just coming back from a
+
+weekend or going into a
+weekend so they usually
+
+started in the middle of
+the spring middle of the
+
+week so think of it as a
+wednesday to tuesday in
+
+this case and every day
+you'll have a 15 minute
+
+stand up to give updates
+on uh it's either in the
+
+morning or in the evening
+in the evening you're
+
+telling them what you've
+accomplished the whole
+
+day what you're planning
+for the next day and
+
+if you have any blockers
+right that's all they
+
+discuss sometimes there
+are huge discussions on
+
+things that are very
+pressing but the scrum uh
+
+agile coaches will want
+you to park these items
+
+that um don't take
+away all the time uh it's
+
+strictly a 15 minute
+stand up you try to stay
+
+within the agenda right
+then we have um usually
+
+during the week you
+will have to uh plan the
+
+sprint obviously um
+every start of the sprint
+
+you will have sprint
+planning session for about
+
+two hours where um the
+agile coach or the scrum
+
+master is asking you
+questions on hey team what
+
+stories do you want
+to pull into the sprint
+
+and how much of velocity
+do you have how much
+
+uh are you is anybody
+going on a vacation uh
+
+and um you know what
+all these stories are you
+
+able to finish by the
+end of the sprint so these
+
+are the main considerations
+that's the first day
+
+of the sprint um sometimes
+the sprint planning can
+
+also happen the day
+prior like an evening time or
+
+something because they
+want to give uh everyone
+
+the time um to work
+on the sprint full sprint
+
+right so they either like
+put away time uh just
+
+a day prior to the sprint at the end of the
+previous sprint or on the day of the sprint
+
+the first day um and during
+the week um they might
+
+have depending on how
+big the backlog is and how
+
+often the requirements
+are changing and how
+
+confident everyone is
+to refine the backlog they
+
+will have sessions to
+refine the backlog where um
+
+you are probably the
+business analyst is probably
+
+the driver of that uh
+session um they they get
+
+the priority from product
+managers and owners
+
+and they look at all
+the sprint tasks that are
+
+sitting in the backlog
+and they refine them they
+
+review them with the team
+they get inputs as much
+
+as they can they identify
+risks and assumptions
+
+and dependencies
+and make sure all of it is
+
+documented right that's
+the refinement session
+
+um if the backlog uh if
+the developers need a
+
+session for development
+side of things they also
+
+can have an hour session
+right during the week um
+
+in the end of the sprint
+usually there's a sprint
+
+review if there are
+deliverable products by the
+
+end of the sprint they
+review the development
+
+done so far with the
+stakeholders just to get
+
+their alignment and you
+know thumbs up on the
+
+things developed they
+want to make sure everything
+
+is developed according
+to the requirements
+
+sometimes um things
+are lost in translation they
+
+want to make sure that
+the definition of done is
+
+achieved right um then
+um there's also time for
+
+retro where retrospective
+is more um looking back
+
+into things uh on how
+the sprint went and if there
+
+were any challenges for
+the team if there was any
+
+learnings if anyone had
+done a very good job at
+
+you know like working
+with the team and bringing
+
+it together you know
+that is a time when they
+
+reflect on the past
+sprint and make sure that
+
+any learnings outcomes
+anything they can improve
+
+the team's functioning
+um that is incorporated
+
+into the next thing so
+it's the scrum master's job
+
+to pay attention to that
+and make sure that the
+
+team team's problems
+are heard and yeah ensure
+
+everything is good so
+that's the last day of the
+
+sprint uh this is basically
+the documentation
+
+i've uh i've put together
+for you just to give
+
+you an end-to-end picture
+um if this information
+
+is very redundant you
+might have some practical
+
+questions to ask me
+at this point um if i've
+
+clarified your answers
+like i'd like to know
+
+um if you if you have
+any feedback i'd like
+
+to know um so that's
+the end of this present
+
+over to you guys if you have
+any questions for me or feedback
+
+or if you want to see anything else
+or know anything else let me know
+
+so i got one question you mentioned
+about this akeel uh you mentioned about
+
+product honor right
+while explaining this print
+
+and um and the yeah the
+scrum cycle i don't know
+
+which slide it was uh yeah so you were just
+bringing that particular uh designation to
+
+explain the scrum or
+there's certain uh you know
+
+protocols need to be
+followed based on designation
+
+or scrum is equal for
+every every designation
+
+no matter if it is c-level
+or developer whatever
+
+you got my question um
+like any special attention
+
+need to be taken by
+product owner that's what i'm
+
+trying to say while he's using the scrum in
+a in a layman language that's my question
+
+oh any rules per se yeah let's say
+yeah let's say um let's say a person um is
+
+is holding a position
+called product owner correct
+
+yeah and then he got
+his user story uh in the
+
+system so does he have
+he or she have to really
+
+focus on certain things
+or the all the rule for
+
+scrum is equal for
+everyone like ajal is for
+
+everyone because i'm i'm
+coming from background
+
+let's say if i need to
+evaluate someone is working
+
+with me as a product
+owner what exactly i need to
+
+check while you know over
+weaving his scrum board
+
+so product owners they
+usually uh own the product
+
+backlog right so they
+know what user stories
+
+there are they have to
+be able to give you um
+
+the details and you
+know the insight into what
+
+a user story should
+contain what the acceptance
+
+criteria is so they
+basically define the product
+
+for you they understand
+the vision from the higher
+
+level management and
+they're supposed to translate
+
+that to you guys if you
+are the developer ensure
+
+that all of the
+vision is put into the
+
+requirements which is
+nothing but the user stories
+
+so they are very actively
+participating in the
+
+product refinement sessions
+which are the backlog
+
+grooming sessions
+because that is where their
+
+input is required and
+also during sprint planning
+
+where they prioritize
+the user stories that
+
+are brought into the
+sprint so and during this
+
+sprint also if there
+are any questions for
+
+developers you know
+they during the stand-up
+
+they attend the stand-up
+so the developers are
+
+talking about the things
+that they're developing
+
+for that day and if they
+have questions they
+
+follow up with the product
+owner to give clarity
+
+so that is their role
+basically and at the end of
+
+this sprint there when
+you are as a developer if
+
+you're reviewing a
+certain capability right so
+
+the product owners
+are just making sure that
+
+you know the requirement and
+the vision has been achieved
+
+okay yeah they are part of scrum because
+they ask the important people right to
+
+translate the business
+requirements for you guys so yeah
+
+i hope i answered your question do
+you have a follow-up question no that's
+
+that's good thank you so much
+appreciate it of course anybody else
+
+okay
+
+okay i see this widget
+has a comment but it's not
+
+related to the ppt so i'd
+let shweta or chris take
+
+it up so guys i think that's the end of the
+session thanks for joining i think shweta
+
+and chris will guide you
+through the next steps
+
+you will be receiving an
+assessment from me or
+
+from the team and i
+would expect you to return
+
+it in a day or two so i
+can review your learnings
+
+and insights and i'm
+looking forward for you to
+
+incorporating the
+learnings from this session
+
+and all your sessions previously into that
+assessment it's kind of a holistic approach
+
+to understand where
+you are stand and how you
+
+understand it also it's
+also to help you basically
+
+to understand you know
+the basic concepts and
+
+how to apply it in a
+day-to-day scenarios right
+
+when you're working as a business analyst
+so just ponder upon the questions and
+
+try to answer based on the level of
+understanding sorry what was that
+
+okay yeah just you know
+i know a lot of you want
+
+to use chat gpt but if
+you do that then you won't
+
+learn anything from you
+know it's really hard to
+
+understand what the
+questions actually are meant
+
+to do for you so i
+want you to take the full
+
+benefit of it and there's
+no harsh assessment or
+
+you know ruling on any
+of that any of your answers
+
+if there is something that
+seems out of whack for
+
+me then i will make sure
+to respond and you know
+
+guide you in the right
+direction just take full
+
+advantage of these
+sessions so that you're
+
+learning and you know
+just bettering yourself
+
+at what you do for the
+future you're welcome to
+
+ask me any questions
+and respond to that thread
+
+email thread you you'll
+have with me so thank you
+
+all shweta over to you
+if you have anything for
+
+the team um chris are
+you on oh i don't see any
+
+of these guys on so i'll
+let you adjourn and then
+
+i'll have the team reach
+out to you regarding
+
+this estimate okay have
+a great evening talk soon
+
+thank you so much thank you thank you
+
+[BLANK_AUDIO]

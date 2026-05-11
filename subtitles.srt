@@ -1,0 +1,3225 @@
+﻿1
+00:00:00,100 --> 00:00:07,040
+I'm sorry Claire, I couldn't hear
+you over the announcement.
+
+2
+00:00:09,620 --> 00:00:13,077
+No problem. So just
+checking if my audio is
+
+3
+00:00:13,089 --> 00:00:16,720
+good and if you can see
+my screen, everything
+
+4
+00:00:16,721 --> 00:00:19,713
+looks good from my
+end. I can hear you loud
+
+5
+00:00:19,725 --> 00:00:22,800
+and clear and yeah
+the screen is visible, so
+
+6
+00:00:22,950 --> 00:00:25,700
+this session's all
+yours. Thank you.
+
+7
+00:00:25,712 --> 00:00:30,160
+Appreciate it. All right, sorry
+for the delays here due to
+
+8
+00:00:31,120 --> 00:00:35,066
+technical issues but now
+I'm back. Hey everyone,
+
+9
+00:00:35,078 --> 00:00:39,120
+thanks for joining. This
+is just a quick overview
+
+10
+00:00:41,399 --> 00:00:45,248
+of what you've already
+probably learned regarding
+
+11
+00:00:45,260 --> 00:00:49,677
+the business analysis and
+how the end-to-end might look.
+
+12
+00:00:50,877 --> 00:00:54,347
+I will just try to paint
+a good picture for
+
+13
+00:00:54,359 --> 00:00:59,126
+you guys on what things are
+key in the current day and age.
+
+14
+00:00:59,127 --> 00:01:06,000
+There is a lot of redundant information about
+business analysis out there and the team
+
+15
+00:01:06,400 --> 00:01:10,253
+wanted to put this
+together so you guys are
+
+16
+00:01:10,265 --> 00:01:14,400
+more on the current page
+and are aware of what
+
+17
+00:01:18,080 --> 00:01:26,080
+technologies and what concepts of business
+analysis is being adopted by a lot of these
+
+18
+00:01:26,081 --> 00:01:29,989
+organizations out there.
+So the first thing that
+
+19
+00:01:30,001 --> 00:01:34,758
+we look at is to define good
+business goals and objectives.
+
+20
+00:01:36,428 --> 00:01:39,094
+Usually when you
+think about a product
+
+21
+00:01:39,106 --> 00:01:42,560
+and you're trying to
+develop it, you are focused
+
+22
+00:01:42,561 --> 00:01:46,265
+on the key results. You
+have to define a good
+
+23
+00:01:46,277 --> 00:01:50,160
+business objective. So
+if you define your goals
+
+24
+00:01:53,920 --> 00:01:57,993
+clear enough and precise
+enough, then you should
+
+25
+00:01:58,005 --> 00:02:01,920
+be able to achieve the
+end product right. It's
+
+26
+00:02:03,459 --> 00:02:10,960
+a very well good job done. So that is why
+defining a good business objective and goal
+
+27
+00:02:13,310 --> 00:02:20,560
+is important and a lot of us follow this
+methodology called SMART where the goal needs
+
+28
+00:02:20,880 --> 00:02:24,911
+to be specific, measurable
+in terms of how long
+
+29
+00:02:24,923 --> 00:02:28,880
+it might take and how
+achievable it is and how
+
+30
+00:02:31,680 --> 00:02:39,391
+realistic it is and what is the timing
+that it might take to accomplish that goal.
+
+31
+00:02:42,421 --> 00:02:50,560
+So the OKR for the abbreviation is the key
+results and these define the objectives.
+
+32
+00:02:53,120 --> 00:03:00,421
+If you think about a newly stand-up project,
+it's broken down quarterly based mostly.
+
+33
+00:03:01,381 --> 00:03:05,848
+So each quarter the team
+has certain goals to meet.
+
+34
+00:03:05,860 --> 00:03:10,080
+So all your sprint goals,
+your day-to-day sprint
+
+35
+00:03:10,081 --> 00:03:16,320
+activities kind of sum up into achieving
+that goal that's defined for that quarter.
+
+36
+00:03:17,145 --> 00:03:21,756
+So these key results are mostly
+defined based on the output.
+
+37
+00:03:21,768 --> 00:03:27,016
+So for example, increase market position
+within the autonomous delivery market.
+
+38
+00:03:27,028 --> 00:03:30,080
+So you as business analysts
+are probably coming up
+
+39
+00:03:30,230 --> 00:03:35,200
+with the key results in collaboration with
+your product owners and product managers.
+
+40
+00:03:36,500 --> 00:03:40,236
+If you are focused on
+engineering and development
+
+41
+00:03:40,248 --> 00:03:43,920
+side of things, you are
+also probably focused on
+
+42
+00:03:44,785 --> 00:03:48,483
+the outcomes where
+you can measure things.
+
+43
+00:03:48,495 --> 00:03:52,560
+For example, how do
+you achieve a top position
+
+44
+00:03:52,880 --> 00:04:00,880
+in a competitive market? How do you define
+that? You come up with a gap analysis or
+
+45
+00:04:03,280 --> 00:04:09,280
+market value ratio and things like that and
+come up with the percentages on how much of
+
+46
+00:04:09,281 --> 00:04:12,348
+an improvement you
+want to see in your product
+
+47
+00:04:12,360 --> 00:04:15,440
+and go from there. So
+the five components of a
+
+48
+00:04:15,441 --> 00:04:22,720
+good objective is defining the activity and
+the scope and what benefit it gives to the
+
+49
+00:04:22,721 --> 00:04:29,040
+organization and what value would the end
+customer receive from what you're developing
+
+50
+00:04:30,240 --> 00:04:34,314
+and what is the business
+value. It just sums up
+
+51
+00:04:34,326 --> 00:04:38,240
+into a wholesome
+business goal and objective.
+
+52
+00:04:39,190 --> 00:04:42,433
+This is just the high
+level. This is like an entry
+
+53
+00:04:42,445 --> 00:04:45,440
+point right to your
+projects. When you join an
+
+54
+00:04:45,441 --> 00:04:48,796
+organization, you are
+probably given a lot of
+
+55
+00:04:48,808 --> 00:04:52,400
+documentation to go
+through and you're wondering
+
+56
+00:04:52,401 --> 00:04:55,760
+where to start, where to
+begin and it's important
+
+57
+00:04:55,772 --> 00:04:58,800
+for you to understand
+the objectives of that
+
+58
+00:04:58,950 --> 00:05:03,084
+particular project in order
+to see the bigger vision.
+
+59
+00:05:03,096 --> 00:05:09,888
+Although you're not making a huge contribution
+to defining these objectives maybe,
+
+60
+00:05:09,900 --> 00:05:13,680
+sometimes you are
+playing a crucial role in
+
+61
+00:05:14,640 --> 00:05:22,640
+probably part of the organization where
+they're developing and you don't have
+
+62
+00:05:22,641 --> 00:05:25,278
+insight into all of this
+for the company but
+
+63
+00:05:25,290 --> 00:05:28,000
+definitely there should
+be some documentation
+
+64
+00:05:28,001 --> 00:05:32,892
+at hand for you to go through
+and understand the objectives.
+
+65
+00:05:32,904 --> 00:05:35,360
+Next up, you are familiar with
+
+66
+00:05:36,505 --> 00:05:40,391
+waterfall and agile.
+The basic difference is
+
+67
+00:05:40,403 --> 00:05:45,090
+waterfall is very linear.
+You go from phase to phase.
+
+68
+00:05:45,170 --> 00:05:48,504
+It takes however
+long it takes for each
+
+69
+00:05:48,516 --> 00:05:52,560
+phase and user gets the
+end product at the very
+
+70
+00:05:53,060 --> 00:05:57,122
+end of the waterfall
+methodology. But incremental
+
+71
+00:05:57,134 --> 00:06:00,960
+delivery is what the
+current organizations are
+
+72
+00:06:03,370 --> 00:06:06,916
+adopting mostly because
+they see that the user
+
+73
+00:06:06,928 --> 00:06:10,720
+gets value from each
+iterative term that you work
+
+74
+00:06:13,300 --> 00:06:16,186
+on a certain product
+development.
+
+75
+00:06:16,198 --> 00:06:21,200
+So basically just dividing
+the whole year or the duration
+
+76
+00:06:22,775 --> 00:06:30,400
+of the project into iterative sprints
+or iterative weeks, however it's useful
+
+77
+00:06:31,890 --> 00:06:35,810
+for your organization
+and coming up with tiny,
+
+78
+00:06:35,822 --> 00:06:39,840
+small, achieving small
+goals at every iteration
+
+79
+00:06:41,100 --> 00:06:48,800
+and learning from them and learning
+and applying all the learnings to the next
+
+80
+00:06:48,801 --> 00:06:52,308
+sprint so that the user
+gets a better value.
+
+81
+00:06:52,320 --> 00:06:55,680
+There's more improvement
+with every sprint
+
+82
+00:06:56,335 --> 00:07:00,280
+and every product
+development life cycle you
+
+83
+00:07:00,292 --> 00:07:04,160
+go through between
+those little iterations.
+
+84
+00:07:05,020 --> 00:07:09,872
+So there are multiple ways of
+following the agile methodology.
+
+85
+00:07:09,884 --> 00:07:12,320
+There's scrum which is the most
+
+86
+00:07:18,420 --> 00:07:21,552
+famous, most widely
+used I would say.
+
+87
+00:07:21,564 --> 00:07:26,320
+Some teams also use Kanban
+or you've probably also heard
+
+88
+00:07:27,520 --> 00:07:31,694
+about Azure DevOps
+which is just a tool where
+
+89
+00:07:31,706 --> 00:07:35,520
+the organizations are
+tracking end-to-end
+
+90
+00:07:36,320 --> 00:07:40,866
+visibility into a project. Usually
+with scrum they use Jira.
+
+91
+00:07:40,878 --> 00:07:43,920
+If you are familiar
+with Jira you'd know
+
+92
+00:07:45,760 --> 00:07:49,791
+that they would track
+the progress of this work
+
+93
+00:07:49,803 --> 00:07:54,463
+done and how the velocity
+and things like that in Jira.
+
+94
+00:07:54,563 --> 00:07:57,247
+This is very superficial,
+does not give
+
+95
+00:07:57,259 --> 00:08:00,800
+any insight into what
+development work is going on
+
+96
+00:08:00,801 --> 00:08:08,320
+and the release cycle, the pipelines and
+things like that but Azure DevOps is built
+
+97
+00:08:08,321 --> 00:08:11,703
+to give that end-to-end
+picture for the users so
+
+98
+00:08:11,715 --> 00:08:15,040
+a lot of companies are
+adopting that particular
+
+99
+00:08:15,041 --> 00:08:18,992
+tool at the moment. As
+you know scrum follows
+
+100
+00:08:19,004 --> 00:08:22,880
+sprint iterations. They're
+usually two weeks
+
+101
+00:08:26,050 --> 00:08:30,193
+iterations but Kanban
+can also follow the same
+
+102
+00:08:30,205 --> 00:08:34,000
+life iteration or
+duration but it does not
+
+103
+00:08:34,001 --> 00:08:37,389
+have a defined structure
+to a sprint or they
+
+104
+00:08:37,401 --> 00:08:40,880
+do not have like a
+defined structure to tasks
+
+105
+00:08:41,679 --> 00:08:45,461
+where they estimate tasks
+and you know it's more random.
+
+106
+00:08:45,473 --> 00:08:48,320
+Kanban is adopted
+where they don't have to
+
+107
+00:08:51,569 --> 00:08:55,988
+follow a clear pathway I
+would say to the end product.
+
+108
+00:08:56,000 --> 00:08:59,675
+So understanding the
+organization team roles.
+
+109
+00:08:59,676 --> 00:09:02,748
+Now that you know
+the business objective
+
+110
+00:09:02,760 --> 00:09:06,400
+you try to understand
+what team are you part of
+
+111
+00:09:06,880 --> 00:09:10,908
+and what is the organizational
+hierarchy and where
+
+112
+00:09:10,920 --> 00:09:14,880
+do you stand in that
+hierarchy. Are you reporting
+
+113
+00:09:15,840 --> 00:09:19,869
+to an engineering manager
+where you are a support
+
+114
+00:09:19,881 --> 00:09:23,840
+system for the developers
+and you're translating
+
+115
+00:09:23,841 --> 00:09:27,668
+business requirements,
+you are more engaged into
+
+116
+00:09:27,680 --> 00:09:31,360
+the system requirements
+or are you part of the
+
+117
+00:09:31,361 --> 00:09:39,280
+business group where you are defining the
+requirements, you are actually gathering the
+
+118
+00:09:40,494 --> 00:09:44,232
+requirements and
+documenting them and you know
+
+119
+00:09:44,244 --> 00:09:48,320
+supporting the user
+acceptance testing in the end.
+
+120
+00:09:48,395 --> 00:09:51,194
+So it's important for
+you to understand where
+
+121
+00:09:51,206 --> 00:09:54,080
+your role lies in the
+organizational hierarchy
+
+122
+00:09:54,880 --> 00:09:57,447
+and what your job duties are.
+
+123
+00:09:57,459 --> 00:10:02,880
+So product management consists
+of basically the journey owner
+
+124
+00:10:03,760 --> 00:10:07,386
+and product manager.
+They kind of share their
+
+125
+00:10:07,398 --> 00:10:12,049
+roles in some organizations.
+They sometimes work together.
+
+126
+00:10:12,050 --> 00:10:14,868
+Sometimes it's just
+one person who is a
+
+127
+00:10:14,880 --> 00:10:18,480
+product manager. They
+have the end-to-end idea of
+
+128
+00:10:18,530 --> 00:10:24,960
+the business, how the business runs,
+what expectations are there from the higher
+
+129
+00:10:26,400 --> 00:10:30,388
+management. They usually
+report back to the higher
+
+130
+00:10:30,400 --> 00:10:34,000
+levels in the organization.
+Basically they're
+
+131
+00:10:34,001 --> 00:10:37,352
+bringing value from
+their conversations with
+
+132
+00:10:37,364 --> 00:10:40,880
+the business expectations
+and stakeholders and
+
+133
+00:10:40,930 --> 00:10:44,493
+multiple stakeholders in a
+company probably gather
+
+134
+00:10:44,505 --> 00:10:48,080
+and talk through the vision
+and you know they come
+
+135
+00:10:49,919 --> 00:10:53,587
+up with the roadmap.
+They basically define the
+
+136
+00:10:53,599 --> 00:10:57,120
+value on how to optimize
+customer experience
+
+137
+00:10:57,849 --> 00:11:01,048
+with the product that
+you are developing.
+
+138
+00:11:01,060 --> 00:11:05,600
+Agile team kind of sits side
+by side to product management
+
+139
+00:11:06,224 --> 00:11:08,915
+where the product
+owner is a key player.
+
+140
+00:11:08,927 --> 00:11:12,640
+Sometimes the business
+analyst is also a product owner.
+
+141
+00:11:13,440 --> 00:11:16,166
+They're expected to at
+least understand even if
+
+142
+00:11:16,178 --> 00:11:18,800
+they don't have any
+domain experience or they
+
+143
+00:11:18,880 --> 00:11:22,953
+don't have a huge insight
+into the business, how
+
+144
+00:11:22,965 --> 00:11:26,880
+the business functions.
+They are familiar with
+
+145
+00:11:26,881 --> 00:11:32,400
+the concepts such as how you connect with
+your customer, how you engage with your
+
+146
+00:11:34,240 --> 00:11:42,240
+customer, how you elicit requirements
+and talk to the product manager about
+
+147
+00:11:42,339 --> 00:11:45,869
+how to prioritize
+the backlogs, what is
+
+148
+00:11:45,881 --> 00:11:50,240
+priority and how you
+bring them into the sprint.
+
+149
+00:11:50,339 --> 00:11:57,440
+Like I already mentioned about the goals.
+Every quarter they probably have
+
+150
+00:11:57,564 --> 00:12:04,000
+three key results they want to see and
+they prioritize the backlog based on that.
+
+151
+00:12:06,240 --> 00:12:10,186
+So if you are interested
+in that area, a product
+
+152
+00:12:10,198 --> 00:12:14,240
+owner is a role that is
+truly more focused on the
+
+153
+00:12:14,241 --> 00:12:21,920
+business side things. Now there's also the
+development team of course in Agile team.
+
+154
+00:12:23,440 --> 00:12:26,881
+They are actually
+working on the product.
+
+155
+00:12:26,893 --> 00:12:31,440
+So all the team backlog
+they work through the backlog.
+
+156
+00:12:32,259 --> 00:12:36,353
+They follow the priority
+product owner provides to them.
+
+157
+00:12:36,365 --> 00:12:42,599
+They build and test and deliver the
+products incrementally. Sometimes a business
+
+158
+00:12:42,611 --> 00:12:48,072
+analyst is part of this development team
+and they're working very closely with the
+
+159
+00:12:48,084 --> 00:12:50,400
+development team where
+they're testing the end
+
+160
+00:12:51,010 --> 00:12:58,960
+product that the developers develop and
+documenting the defects, ensuring that the
+
+161
+00:12:59,200 --> 00:13:07,200
+business value is carried throughout
+the development and ensuring that any
+
+162
+00:13:07,324 --> 00:13:10,933
+issues, any critical
+things that come up during
+
+163
+00:13:10,945 --> 00:13:14,720
+development is reported
+back to the product owner
+
+164
+00:13:14,721 --> 00:13:20,080
+so that they are aware and just
+building a gap or a bridge between the
+
+165
+00:13:20,081 --> 00:13:23,093
+product owner and
+the development team.
+
+166
+00:13:23,105 --> 00:13:27,600
+The scrum master is someone
+who is very aware of the Agile
+
+167
+00:13:30,639 --> 00:13:38,240
+methodologies and they ensure that the team
+follows the scrum practices. They keep you,
+
+168
+00:13:38,241 --> 00:13:45,840
+they make sure that you're not handling or
+going through any blockers or impediments.
+
+169
+00:13:46,889 --> 00:13:49,893
+They check on with you
+day to day which is nothing
+
+170
+00:13:49,905 --> 00:13:52,800
+but the daily stand-ups
+right. They just want to
+
+171
+00:13:52,801 --> 00:13:56,525
+make sure that you're on
+track to achieving the sprint goal.
+
+172
+00:13:56,537 --> 00:13:58,720
+They want to make
+sure that you are
+
+173
+00:13:58,721 --> 00:14:05,360
+understanding what iterative development
+means. If you are, you know, you have a
+
+174
+00:14:05,361 --> 00:14:08,977
+discussion with the
+development team or the
+
+175
+00:14:08,989 --> 00:14:13,040
+business team that is
+going away from the topic,
+
+176
+00:14:13,041 --> 00:14:15,839
+they kind of bring you
+back. So they kind of keep
+
+177
+00:14:15,851 --> 00:14:18,720
+you focused on the sprint
+goal. So they're kind of
+
+178
+00:14:18,721 --> 00:14:21,804
+the gatekeeper for
+that. So that's what the
+
+179
+00:14:21,816 --> 00:14:25,200
+scrum master does.
+So this is like a high level
+
+180
+00:14:26,960 --> 00:14:32,101
+of understanding what your
+role is within an organization.
+
+181
+00:14:32,113 --> 00:14:34,960
+Next, obviously every scrum team
+
+182
+00:14:35,680 --> 00:14:39,761
+will have a product
+goal which is defined by
+
+183
+00:14:39,773 --> 00:14:43,680
+the product owner
+and basically your team,
+
+184
+00:14:44,720 --> 00:14:51,840
+the scrum team is something that has to be
+self-managing and you will have different
+
+185
+00:14:52,400 --> 00:14:56,256
+members of from
+different teams put together
+
+186
+00:14:56,268 --> 00:15:00,400
+so that it just makes
+your life easy right with
+
+187
+00:15:00,499 --> 00:15:05,840
+you know engaging with them day to day.
+For example, if you think about
+
+188
+00:15:05,841 --> 00:15:08,692
+probably a customer
+service team right.
+
+189
+00:15:08,704 --> 00:15:12,960
+So they are interacting with
+the end customers day to day.
+
+190
+00:15:13,889 --> 00:15:20,160
+How will your development team know
+about what their challenges are or what
+
+191
+00:15:20,309 --> 00:15:23,785
+pain points they're facing
+and what things they
+
+192
+00:15:23,797 --> 00:15:27,360
+would like to see
+developed right in the product
+
+193
+00:15:27,361 --> 00:15:34,160
+and because they are the people interacting
+with the end customer. So in that case,
+
+194
+00:15:34,161 --> 00:15:39,760
+the organizations usually find a
+subject matter expert who are nothing but
+
+195
+00:15:39,761 --> 00:15:43,311
+sneeze right. They bring
+them in into the team
+
+196
+00:15:43,323 --> 00:15:48,134
+so that they can provide
+internal insights right to that team.
+
+197
+00:15:48,135 --> 00:15:49,798
+That's just one team.
+
+198
+00:15:49,810 --> 00:15:54,400
+If you think about Amazon
+website, you can think about the
+
+199
+00:15:54,401 --> 00:15:56,776
+payments and checkout.
+You can think about the
+
+200
+00:15:56,788 --> 00:15:59,280
+search team as one team.
+You can think about the
+
+201
+00:15:59,429 --> 00:16:02,202
+product detail page
+team as one team.
+
+202
+00:16:02,214 --> 00:16:06,156
+So bringing all of them
+together is what scrum does.
+
+203
+00:16:06,157 --> 00:16:09,935
+You will have sneeze from
+every side of the organization
+
+204
+00:16:09,947 --> 00:16:12,960
+that touches that product
+and you are getting
+
+205
+00:16:12,961 --> 00:16:15,536
+inputs from all of those
+people and you have to
+
+206
+00:16:15,548 --> 00:16:18,080
+consider when you're
+coming up with your tasks
+
+207
+00:16:18,081 --> 00:16:22,691
+and priorities you're engaging
+with all of these people.
+
+208
+00:16:22,703 --> 00:16:28,828
+Sometimes a business analyst also has separate
+meetings with these people just to keep
+
+209
+00:16:28,840 --> 00:16:31,920
+give the time back to
+the developers to focus on
+
+210
+00:16:32,160 --> 00:16:35,981
+the sprint goals right.
+So you are in meetings
+
+211
+00:16:35,993 --> 00:16:40,160
+getting requirements and
+you know thinking through
+
+212
+00:16:40,161 --> 00:16:43,495
+the future just preparing
+the backlog for the next
+
+213
+00:16:43,507 --> 00:16:46,004
+couple of sprints
+is your goal right.
+
+214
+00:16:46,005 --> 00:16:49,620
+So you are making sure all
+the information in there is up
+
+215
+00:16:49,632 --> 00:16:53,421
+to date and current. You are
+tracking all the dependencies.
+
+216
+00:16:53,422 --> 00:16:59,520
+You're ensuring all these sneeze are aware
+of what the development is what development
+
+217
+00:16:59,521 --> 00:17:02,278
+is happening in the
+team and things like that.
+
+218
+00:17:02,290 --> 00:17:05,599
+So very interactive
+self-managing and cross-functional.
+
+219
+00:17:06,874 --> 00:17:12,400
+This is a journey map. I know it's not too
+
+220
+00:17:13,839 --> 00:17:21,040
+it's probably not very visible right.
+Let me try to zoom in.
+
+221
+00:17:28,539 --> 00:17:31,125
+Okay all right so
+that's the journey map.
+
+222
+00:17:31,137 --> 00:17:34,240
+This is just one template
+that a product owner or
+
+223
+00:17:34,880 --> 00:17:38,910
+a business analyst might
+use. This has a list of
+
+224
+00:17:38,922 --> 00:17:42,880
+things such as if you
+think about an end-to-end
+
+225
+00:17:45,120 --> 00:17:49,064
+flow of you know creating
+a patient's you know
+
+226
+00:17:49,076 --> 00:17:53,120
+interaction with an app
+probably they will have
+
+227
+00:17:53,121 --> 00:17:56,068
+to manage their medical
+appointments in an app.
+
+228
+00:17:56,080 --> 00:17:59,040
+They probably have to
+book another appointment.
+
+229
+00:17:59,041 --> 00:18:03,680
+If they want to reschedule that appointment
+they should have that capability to do it
+
+230
+00:18:04,579 --> 00:18:07,763
+and they should be able
+to hold the appointment
+
+231
+00:18:07,775 --> 00:18:11,040
+time and probably also
+follow some app have some
+
+232
+00:18:11,041 --> 00:18:16,320
+follow-up activities right. So that is the
+workflow that is the journey of a patient
+
+233
+00:18:17,360 --> 00:18:25,360
+when they're using an app. So this template
+outlines the outcomes of each of this
+
+234
+00:18:25,360 --> 00:18:28,909
+activity that they perform
+on an app and what
+
+235
+00:18:28,921 --> 00:18:32,720
+human interactions and
+sister interactions there
+
+236
+00:18:32,721 --> 00:18:36,499
+are and how does the
+patient feel about that
+
+237
+00:18:36,511 --> 00:18:40,560
+particular capability
+and if they have any pain
+
+238
+00:18:40,561 --> 00:18:44,388
+points with you know
+each of these steps and how
+
+239
+00:18:44,400 --> 00:18:48,160
+what is the level of
+satisfaction they have how
+
+240
+00:18:48,161 --> 00:18:51,621
+how do they rate the
+application when they
+
+241
+00:18:51,633 --> 00:18:55,520
+consider each of these
+elements in the UI right
+
+242
+00:18:57,039 --> 00:19:02,247
+and any ideas of improvement
+all of these things are captured.
+
+243
+00:19:02,259 --> 00:19:04,292
+What does this give you?
+
+244
+00:19:04,452 --> 00:19:09,229
+It gives you an end-to-end
+picture of what the actual user
+
+245
+00:19:09,241 --> 00:19:13,200
+of your map or of your
+app is looking into right
+
+246
+00:19:13,201 --> 00:19:15,997
+how are they interacting.
+So from this you can
+
+247
+00:19:16,009 --> 00:19:18,880
+come up with a lot of
+improvements that you can
+
+248
+00:19:18,881 --> 00:19:21,929
+make to the app how
+can you can look at this
+
+249
+00:19:21,941 --> 00:19:25,280
+and say hey these are
+these are n number of pain
+
+250
+00:19:25,281 --> 00:19:28,569
+points with this workflow
+can we make this better
+
+251
+00:19:28,581 --> 00:19:31,680
+and alleviate some of
+these pain points in the
+
+252
+00:19:32,960 --> 00:19:36,906
+next sprint for the user
+if there is so okay the
+
+253
+00:19:36,918 --> 00:19:40,960
+next step would probably
+be oh who else uses this
+
+254
+00:19:40,961 --> 00:19:44,378
+manage all medical
+appointments workflow right so
+
+255
+00:19:44,390 --> 00:19:47,680
+if there is another user
+and they have the same
+
+256
+00:19:47,681 --> 00:19:50,734
+pain point they want
+to make sure that it's
+
+257
+00:19:50,746 --> 00:19:54,240
+highlighted to the business
+and they want to make
+
+258
+00:19:54,241 --> 00:19:57,388
+sure that there is a
+solution out there for them
+
+259
+00:19:57,400 --> 00:20:00,560
+to you know like elevate
+that point and that's a
+
+260
+00:20:00,800 --> 00:20:04,788
+huge win for the team
+right so these are just some
+
+261
+00:20:04,800 --> 00:20:08,800
+templates that we use to
+document the user journey
+
+262
+00:20:08,801 --> 00:20:14,880
+how they are rating the application
+just ensuring that they're following the
+
+263
+00:20:16,109 --> 00:20:19,922
+what the app is intended
+to do sometimes there
+
+264
+00:20:19,934 --> 00:20:23,760
+is a learning curve if
+it's a new person using
+
+265
+00:20:23,761 --> 00:20:26,804
+an app obviously they
+have to go through some
+
+266
+00:20:26,816 --> 00:20:29,600
+training right so this
+map just helps you
+
+267
+00:20:29,601 --> 00:20:33,676
+distinguish or this these
+kind of templates that
+
+268
+00:20:33,688 --> 00:20:37,520
+just help you understand
+those things so this
+
+269
+00:20:37,521 --> 00:20:40,438
+i think is a very good
+exercise if you are
+
+270
+00:20:40,450 --> 00:20:43,520
+standing a project
+from ground up so this is
+
+271
+00:20:43,521 --> 00:20:46,797
+the initial analysis
+that you'll be part of or
+
+272
+00:20:46,809 --> 00:20:50,240
+probably iterative right
+if you want to continue
+
+273
+00:20:50,241 --> 00:20:52,997
+doing that you send
+surveys to the customers
+
+274
+00:20:53,009 --> 00:20:55,840
+you come up with a own
+set of questions where
+
+275
+00:20:56,720 --> 00:21:00,345
+quantifiable answers
+are given right and you
+
+276
+00:21:00,357 --> 00:21:04,160
+come up with like charts
+you know just to show
+
+277
+00:21:05,520 --> 00:21:09,550
+the customer satisfaction
+or appreciation of the
+
+278
+00:21:09,562 --> 00:21:13,520
+map so there's a lot of
+you know work that goes
+
+279
+00:21:13,600 --> 00:21:17,546
+into the initial standing
+up of a product so how
+
+280
+00:21:17,558 --> 00:21:21,600
+would a story map look
+like this is more from the
+
+281
+00:21:21,680 --> 00:21:25,588
+scrum perspective story
+mapping is an exercise is
+
+282
+00:21:25,600 --> 00:21:29,680
+a similar exercise where
+you look at the end-to-end
+
+283
+00:21:30,960 --> 00:21:34,818
+life cycle of a customer
+using a workflow for
+
+284
+00:21:34,830 --> 00:21:38,960
+example managing an
+email and then breaking this
+
+285
+00:21:38,961 --> 00:21:42,342
+is very high level so there
+are users who are your
+
+286
+00:21:42,354 --> 00:21:45,680
+personas right in a user
+story and then there are
+
+287
+00:21:45,681 --> 00:21:49,266
+goals right these are
+very high level then you
+
+288
+00:21:49,278 --> 00:21:52,720
+break it down into
+activities activities are
+
+289
+00:21:52,721 --> 00:21:56,633
+majorly like high level
+activities again tasks
+
+290
+00:21:56,645 --> 00:22:00,400
+performed when you
+think about that workflow
+
+291
+00:22:00,524 --> 00:22:05,520
+of managing emails they they basically
+write read and delete an email these are the
+
+292
+00:22:05,521 --> 00:22:10,960
+basic functions that you require when
+they when you think about managing an email
+
+293
+00:22:11,109 --> 00:22:14,236
+right and then there
+are if you want to further
+
+294
+00:22:14,248 --> 00:22:17,520
+break down writing an
+email there is creating and
+
+295
+00:22:17,521 --> 00:22:23,920
+sending a basic email they're probably just
+opening a text email or deleting the email
+
+296
+00:22:23,921 --> 00:22:26,920
+right so that is your
+minimum viable product that
+
+297
+00:22:26,932 --> 00:22:29,760
+is the basic skeleton
+product that you want to
+
+298
+00:22:29,761 --> 00:22:33,540
+stand up that is your
+priority and everything else
+
+299
+00:22:33,552 --> 00:22:37,040
+that is an enhancement
+will take time and then
+
+300
+00:22:37,409 --> 00:22:45,360
+that can be deprioritized and that comes
+later in your journey right as in the scrum
+
+301
+00:22:45,709 --> 00:22:48,633
+so this is how you story
+map you're just sitting
+
+302
+00:22:48,645 --> 00:22:51,520
+with a bunch of people
+that are involved in the
+
+303
+00:22:51,521 --> 00:22:59,200
+product development and you basically
+use a whiteboard storyboard to come up with
+
+304
+00:23:01,649 --> 00:23:04,661
+you know any topic that's
+given to you and what
+
+305
+00:23:04,673 --> 00:23:07,440
+you can think of and
+then arranging the the
+
+306
+00:23:07,759 --> 00:23:11,963
+sticky notes or you know
+the post-its or whatever
+
+307
+00:23:11,975 --> 00:23:15,760
+in the right order and
+then coming up with a
+
+308
+00:23:15,761 --> 00:23:21,120
+minimum viable product this is a pretty
+interesting exercise that i really enjoy
+
+309
+00:23:21,121 --> 00:23:24,950
+and i've enjoyed doing
+over the course of time
+
+310
+00:23:24,962 --> 00:23:28,720
+because you kind of
+understand the mindset of
+
+311
+00:23:28,869 --> 00:23:32,153
+the company right what
+they're focused on and
+
+312
+00:23:32,165 --> 00:23:35,680
+where they're going so
+it's a good thing to have
+
+313
+00:23:36,080 --> 00:23:44,080
+the end-to-end understanding of this vision
+right next slide i have the scrum artifacts
+
+314
+00:23:44,104 --> 00:23:50,640
+you are aware of a black backlog there is
+a product backlog which is very high level
+
+315
+00:23:50,641 --> 00:23:53,375
+requirements from the
+waterfall methodology if you
+
+316
+00:23:53,387 --> 00:23:56,080
+think of they are written
+in form of user stories
+
+317
+00:23:56,874 --> 00:24:02,800
+and there is a sprint backlog this is
+each product requirement broken down into
+
+318
+00:24:02,880 --> 00:24:10,880
+development oriented tasks
+right and then each increment is
+
+319
+00:24:12,320 --> 00:24:16,439
+every like the prioritized
+task for each sprint
+
+320
+00:24:16,451 --> 00:24:20,320
+basically so how is
+the quality of a product
+
+321
+00:24:20,560 --> 00:24:24,725
+backlog is it's deep
+as in it's detail oriented
+
+322
+00:24:24,737 --> 00:24:28,560
+it's estimated so you
+give the task certain
+
+323
+00:24:29,200 --> 00:24:33,274
+weightage right of how
+long they might take and
+
+324
+00:24:33,286 --> 00:24:37,200
+all of that will sum
+up to if you look at the
+
+325
+00:24:43,280 --> 00:24:51,280
+right hand bottom corner here you will see
+there is um sorry let me zoom in okay oops
+
+326
+00:24:54,959 --> 00:24:58,787
+okay so a product backlog
+probably has a hundred
+
+327
+00:24:58,799 --> 00:25:02,560
+points worth of user
+stories right that that is
+
+328
+00:25:02,561 --> 00:25:05,258
+probably an epic which
+which is huge it's not
+
+329
+00:25:05,270 --> 00:25:08,160
+broken down it's very
+high level it's a business
+
+330
+00:25:08,161 --> 00:25:11,671
+requirement then further
+down the lane you will
+
+331
+00:25:11,683 --> 00:25:15,280
+go into building like
+broking breaking them down
+
+332
+00:25:19,360 --> 00:25:23,307
+into further um achievable
+estimatable um stories
+
+333
+00:25:23,319 --> 00:25:27,360
+that's a word um and this
+these points are usually
+
+334
+00:25:27,361 --> 00:25:32,880
+two to three sprints worth right so you
+can probably finish the whole epic in like
+
+335
+00:25:32,929 --> 00:25:39,360
+three to four uh sprints which is um if you
+think about a sprint as two week duration
+
+336
+00:25:42,320 --> 00:25:46,264
+um this is how you would
+um estimate um so um
+
+337
+00:25:46,276 --> 00:25:50,320
+usually product owners
+follow this methodology
+
+338
+00:25:50,321 --> 00:25:53,967
+called moscow uh to
+prioritize the backlog um which
+
+339
+00:25:53,979 --> 00:25:57,280
+is must have should
+have could have won't have
+
+340
+00:25:59,009 --> 00:26:02,973
+um you can have in jira
+you can have labels uh
+
+341
+00:26:02,985 --> 00:26:06,960
+attached to each of these
+tasks um and you can
+
+342
+00:26:06,961 --> 00:26:10,195
+prioritize them you can
+also have play with it uh
+
+343
+00:26:10,207 --> 00:26:13,520
+with reporting and things
+like that so it's pretty
+
+344
+00:26:13,619 --> 00:26:17,765
+cool um what's a user
+story you are probably aware
+
+345
+00:26:17,777 --> 00:26:21,520
+of functional user
+stories but there are also
+
+346
+00:26:21,521 --> 00:26:24,991
+technical user stories
+these are mostly written
+
+347
+00:26:25,003 --> 00:26:28,560
+from the systems
+perspective in order to achieve
+
+348
+00:26:28,561 --> 00:26:31,632
+a certain thing um in
+a system uh what is a
+
+349
+00:26:31,644 --> 00:26:34,800
+technical task that
+needs to be performed so
+
+350
+00:26:36,639 --> 00:26:40,034
+when you write user
+stories there they follow
+
+351
+00:26:40,046 --> 00:26:43,680
+the invest model uh
+again this acronym is pretty
+
+352
+00:26:43,681 --> 00:26:46,628
+important where you
+understand each of these um
+
+353
+00:26:46,640 --> 00:26:49,600
+what it stands for right
+each of each letter in
+
+354
+00:26:49,601 --> 00:26:52,193
+that model stands
+for um the stories are
+
+355
+00:26:52,205 --> 00:26:55,200
+independent they're
+negotiable what and why is
+
+356
+00:26:56,519 --> 00:27:00,407
+defined um value they they
+you cannot break down a
+
+357
+00:27:00,419 --> 00:27:04,320
+story point where it
+doesn't provide value to this
+
+358
+00:27:04,469 --> 00:27:11,360
+to the goal like the sprint goal right um
+and then it is split into the small enough
+
+359
+00:27:11,459 --> 00:27:15,121
+stars so that it is
+estimable i can get into the
+
+360
+00:27:15,133 --> 00:27:18,960
+story sizing a little bit
+uh but it's the smallest
+
+361
+00:27:19,979 --> 00:27:23,778
+task you can you should
+be able to break it down
+
+362
+00:27:23,790 --> 00:27:27,680
+uh to a level where it's
+it makes sense basically
+
+363
+00:27:28,240 --> 00:27:32,268
+and that it is testable
+right it has an acceptance
+
+364
+00:27:32,280 --> 00:27:36,240
+criteria um so if you look
+at this um the example
+
+365
+00:27:37,440 --> 00:27:41,383
+of um the story sizing
+points here um adding
+
+366
+00:27:41,395 --> 00:27:45,440
+a single or limited
+fields so think of a form
+
+367
+00:27:45,589 --> 00:27:48,867
+where you're adding a
+name for a developer it's
+
+368
+00:27:48,879 --> 00:27:52,240
+a very minor task right
+so they're probably just
+
+369
+00:27:52,241 --> 00:27:55,275
+enabling some user
+field they named it they're
+
+370
+00:27:55,287 --> 00:27:58,400
+making sure that it
+functions well for the user
+
+371
+00:27:58,401 --> 00:28:04,960
+they're basically just entering a string of
+characters in a field that's probably a one
+
+372
+00:28:05,760 --> 00:28:09,829
+point user story for them
+and uh if any validation
+
+373
+00:28:09,841 --> 00:28:13,760
+needs to be added
+external additional validation
+
+374
+00:28:13,761 --> 00:28:17,308
+such as you know the
+user store uh the name field
+
+375
+00:28:17,320 --> 00:28:20,880
+the first name field should
+always have a capital
+
+376
+00:28:21,699 --> 00:28:24,997
+first letter or it should
+only uh have like 10
+
+377
+00:28:25,009 --> 00:28:28,320
+characters those are
+the validation rules that
+
+378
+00:28:29,859 --> 00:28:33,510
+they build and that is
+probably a two point worth
+
+379
+00:28:33,522 --> 00:28:36,960
+um for user story so
+they build up based on um
+
+380
+00:28:37,084 --> 00:28:40,761
+you know the complexity
+of the user story how long
+
+381
+00:28:40,773 --> 00:28:44,240
+it might take to um you
+know complete that user
+
+382
+00:28:47,939 --> 00:28:51,326
+story so um if like this
+is an unsaid rule uh
+
+383
+00:28:51,338 --> 00:28:55,040
+what i've observed is um
+scrum masters kind of go
+
+384
+00:28:55,041 --> 00:28:58,507
+hey why is the user
+story more than 13 points
+
+385
+00:28:58,519 --> 00:29:01,920
+right so they want the
+user story to be less
+
+386
+00:29:01,921 --> 00:29:05,399
+than 13 points if it's
+going over 13 points they
+
+387
+00:29:05,411 --> 00:29:09,120
+ask you a question if you
+can break it down further
+
+388
+00:29:11,839 --> 00:29:15,744
+into probably a three
+pointer or a five pointer
+
+389
+00:29:15,756 --> 00:29:19,840
+um and um just think
+about it um so they question
+
+390
+00:29:19,939 --> 00:29:23,404
+uh if it can be further
+broken down because an
+
+391
+00:29:23,416 --> 00:29:27,120
+13 pointer will probably
+take you two weeks right
+
+392
+00:29:27,121 --> 00:29:34,960
+to develop it test it uh put it into the qa
+bucket test there and go through the stress
+
+393
+00:29:34,961 --> 00:29:37,465
+testing and things like
+that and come to the user
+
+394
+00:29:37,477 --> 00:29:39,840
+acceptance testing and
+then release to the end
+
+395
+00:29:39,841 --> 00:29:42,268
+customer right so it
+takes a long time so they
+
+396
+00:29:42,280 --> 00:29:44,880
+want to make sure that
+any user story that you're
+
+397
+00:29:44,881 --> 00:29:48,308
+bringing into a sprint
+in the two-week iteration
+
+398
+00:29:48,320 --> 00:29:51,760
+is complete before um
+closing the sprint so that
+
+399
+00:29:57,040 --> 00:30:01,028
+is the goal um so how do
+you come up with points uh
+
+400
+00:30:01,040 --> 00:30:05,040
+is um if if your organization
+does not already have
+
+401
+00:30:05,041 --> 00:30:08,231
+a way of estimating
+this usually comes from
+
+402
+00:30:08,243 --> 00:30:11,520
+going through several
+cycles of sprint right
+
+403
+00:30:12,119 --> 00:30:18,160
+so they start with sprint zero uh they ask
+you to estimate if you've estimated a two
+
+404
+00:30:18,284 --> 00:30:21,596
+two pointer right two for
+a one pointer user story
+
+405
+00:30:21,608 --> 00:30:24,800
+uh in the first sprint you
+go through the second
+
+406
+00:30:24,801 --> 00:30:27,294
+sprint you go through
+the third sprint so with
+
+407
+00:30:27,306 --> 00:30:29,920
+experience you will
+understand how long it might
+
+408
+00:30:30,044 --> 00:30:36,800
+take for you to complete a user story what
+dependencies there are uh if you've called
+
+409
+00:30:36,801 --> 00:30:39,578
+out all the dependencies
+in the user story and
+
+410
+00:30:39,590 --> 00:30:42,320
+everything if the
+acceptance criteria is good
+
+411
+00:30:43,109 --> 00:30:46,383
+there are no questions
+right um no lingering
+
+412
+00:30:46,395 --> 00:30:49,680
+questions and no
+follow-ups everything looks
+
+413
+00:30:49,681 --> 00:30:53,028
+good you get an idea
+by the third sprint on what
+
+414
+00:30:53,040 --> 00:30:56,400
+a one pointer might look
+like what a two pointer
+
+415
+00:30:56,401 --> 00:31:03,840
+might look like so that is what will define
+how you give story points to a user story
+
+416
+00:31:04,914 --> 00:31:08,060
+i hope that's clear you
+just go through it and you
+
+417
+00:31:08,072 --> 00:31:11,040
+will understand uh you
+should just have a basic
+
+418
+00:31:11,041 --> 00:31:14,988
+idea of why you are
+giving the story points and
+
+419
+00:31:15,000 --> 00:31:18,960
+um depending on how
+many story points you bring
+
+420
+00:31:18,961 --> 00:31:21,897
+into a sprint that is
+considered the velocity
+
+421
+00:31:21,909 --> 00:31:25,120
+right like not how much
+you bring in but how much
+
+422
+00:31:25,121 --> 00:31:28,574
+you finish in a sprint
+is called velocity so that
+
+423
+00:31:28,586 --> 00:31:31,840
+is also something that
+you have to be aware of
+
+424
+00:31:33,249 --> 00:31:37,253
+uh so the key differences
+between waterfall agile
+
+425
+00:31:37,265 --> 00:31:41,200
+um you have business
+requirements and functional
+
+426
+00:31:43,169 --> 00:31:46,894
+requirements and waterfall
+um and in agile mostly
+
+427
+00:31:46,906 --> 00:31:50,720
+user stories they follow
+a certain format business
+
+428
+00:31:50,721 --> 00:31:53,097
+requirements are very
+high level but functional
+
+429
+00:31:53,109 --> 00:31:55,600
+requirements are more
+systematic system behaviors
+
+430
+00:31:56,389 --> 00:31:59,945
+systemic behaviors and
+they're very detailed um
+
+431
+00:31:59,957 --> 00:32:03,600
+so it's also important
+for a business analyst to
+
+432
+00:32:03,601 --> 00:32:06,700
+understand the definition
+of done um what is the
+
+433
+00:32:06,712 --> 00:32:09,760
+definition of done for
+release right so this is
+
+434
+00:32:09,909 --> 00:32:13,735
+probably after a couple
+of sprints you're releasing
+
+435
+00:32:13,747 --> 00:32:17,360
+a product to the end
+customer and uh you want to
+
+436
+00:32:17,409 --> 00:32:20,817
+define the done definition
+right for that release
+
+437
+00:32:20,829 --> 00:32:23,760
+which is nothing but
+all of the testing is
+
+438
+00:32:23,761 --> 00:32:27,586
+complete all critical
+and high priority defects
+
+439
+00:32:27,598 --> 00:32:31,600
+are closed there is uh
+the exit criteria for that
+
+440
+00:32:31,601 --> 00:32:34,572
+release has been
+complete so you're asking a
+
+441
+00:32:34,584 --> 00:32:37,840
+question whether it's
+ready for the end customer
+
+442
+00:32:38,240 --> 00:32:42,318
+that is ready to release
+to production now um
+
+443
+00:32:42,330 --> 00:32:46,240
+sprint also has a
+similar criteria which is
+
+444
+00:32:47,200 --> 00:32:55,040
+have all the defects closed did you review
+the product with the stakeholders and
+
+445
+00:32:55,064 --> 00:32:58,879
+gotten their feedback
+and then that you have like
+
+446
+00:32:58,891 --> 00:33:02,640
+release notes each
+release will have notes right
+
+447
+00:33:02,739 --> 00:33:06,472
+so you have to know what
+was developed during that
+
+448
+00:33:06,484 --> 00:33:10,080
+sprint and it's usually
+the business analyst job
+
+449
+00:33:10,715 --> 00:33:14,260
+or someone from the
+developer's side if they cannot
+
+450
+00:33:14,272 --> 00:33:17,760
+i mean if they want to add
+more like developmental
+
+451
+00:33:17,761 --> 00:33:20,948
+notes right development
+side of notes they would
+
+452
+00:33:20,960 --> 00:33:24,160
+add those um what is a
+done a definition of done
+
+453
+00:33:24,309 --> 00:33:27,819
+for story you want to make
+sure that the acceptance
+
+454
+00:33:27,831 --> 00:33:30,800
+criteria is met all the
+unit tests and user
+
+455
+00:33:30,801 --> 00:33:33,967
+acceptance tests are
+complete and uh all the
+
+456
+00:33:33,979 --> 00:33:37,520
+code that has been
+developed is sent to the right
+
+457
+00:33:38,240 --> 00:33:41,167
+pipeline right it's
+sitting at the right
+
+458
+00:33:41,179 --> 00:33:44,560
+environment and it won't
+be touched again just
+
+459
+00:33:44,561 --> 00:33:47,352
+mean uh just making
+sure that the goal of the
+
+460
+00:33:47,364 --> 00:33:50,480
+sprint is achieved and
+the user story is basically
+
+461
+00:33:51,409 --> 00:33:55,330
+um you know like it's
+tested and it's all done
+
+462
+00:33:55,342 --> 00:33:59,360
+um and it's secure um
+so these are this is also
+
+463
+00:33:59,361 --> 00:34:02,645
+important for you to define
+hey when you define the
+
+464
+00:34:02,657 --> 00:34:05,760
+ways of working what
+does the definition of done
+
+465
+00:34:09,360 --> 00:34:13,261
+um some of the scrum
+ceremonies you would see
+
+466
+00:34:13,273 --> 00:34:17,360
+day to day um would
+be if you think of a sprint
+
+467
+00:34:17,361 --> 00:34:21,068
+it usually goes from a
+tuesday to wednesday or
+
+468
+00:34:21,080 --> 00:34:24,800
+a wednesday to tuesday
+um usually teams try to
+
+469
+00:34:26,239 --> 00:34:30,227
+stay away from a monday
+start to us to a sprint
+
+470
+00:34:30,239 --> 00:34:34,239
+or a friday start to a
+sprint because it's more
+
+471
+00:34:34,240 --> 00:34:38,192
+like weekends right and
+they do not want any new
+
+472
+00:34:38,204 --> 00:34:41,920
+uh i new development
+starting like on mondays
+
+473
+00:34:41,921 --> 00:34:45,348
+because you're probably
+just coming back from a
+
+474
+00:34:45,360 --> 00:34:48,800
+weekend or going into a
+weekend so they usually
+
+475
+00:34:48,801 --> 00:34:52,183
+started in the middle of
+the spring middle of the
+
+476
+00:34:52,195 --> 00:34:55,520
+week so think of it as a
+wednesday to tuesday in
+
+477
+00:34:55,521 --> 00:34:58,524
+this case and every day
+you'll have a 15 minute
+
+478
+00:34:58,536 --> 00:35:01,680
+stand up to give updates
+on uh it's either in the
+
+479
+00:35:01,681 --> 00:35:04,028
+morning or in the evening
+in the evening you're
+
+480
+00:35:04,040 --> 00:35:06,400
+telling them what you've
+accomplished the whole
+
+481
+00:35:06,401 --> 00:35:08,643
+day what you're planning
+for the next day and
+
+482
+00:35:08,655 --> 00:35:10,960
+if you have any blockers
+right that's all they
+
+483
+00:35:11,040 --> 00:35:15,071
+discuss sometimes there
+are huge discussions on
+
+484
+00:35:15,083 --> 00:35:19,040
+things that are very
+pressing but the scrum uh
+
+485
+00:35:19,090 --> 00:35:22,192
+agile coaches will want
+you to park these items
+
+486
+00:35:22,204 --> 00:35:25,120
+that um don't take
+away all the time uh it's
+
+487
+00:35:25,121 --> 00:35:28,904
+strictly a 15 minute
+stand up you try to stay
+
+488
+00:35:28,916 --> 00:35:32,880
+within the agenda right
+then we have um usually
+
+489
+00:35:32,881 --> 00:35:36,507
+during the week you
+will have to uh plan the
+
+490
+00:35:36,519 --> 00:35:40,240
+sprint obviously um
+every start of the sprint
+
+491
+00:35:40,241 --> 00:35:43,828
+you will have sprint
+planning session for about
+
+492
+00:35:43,840 --> 00:35:47,440
+two hours where um the
+agile coach or the scrum
+
+493
+00:35:47,441 --> 00:35:50,394
+master is asking you
+questions on hey team what
+
+494
+00:35:50,406 --> 00:35:53,120
+stories do you want
+to pull into the sprint
+
+495
+00:35:53,835 --> 00:35:57,263
+and how much of velocity
+do you have how much
+
+496
+00:35:57,275 --> 00:36:00,640
+uh are you is anybody
+going on a vacation uh
+
+497
+00:36:00,641 --> 00:36:04,504
+and um you know what
+all these stories are you
+
+498
+00:36:04,516 --> 00:36:08,560
+able to finish by the
+end of the sprint so these
+
+499
+00:36:08,561 --> 00:36:11,644
+are the main considerations
+that's the first day
+
+500
+00:36:11,656 --> 00:36:14,880
+of the sprint um sometimes
+the sprint planning can
+
+501
+00:36:14,881 --> 00:36:18,053
+also happen the day
+prior like an evening time or
+
+502
+00:36:18,065 --> 00:36:21,120
+something because they
+want to give uh everyone
+
+503
+00:36:21,680 --> 00:36:25,581
+the time um to work
+on the sprint full sprint
+
+504
+00:36:25,593 --> 00:36:29,680
+right so they either like
+put away time uh just
+
+505
+00:36:29,681 --> 00:36:35,040
+a day prior to the sprint at the end of the
+previous sprint or on the day of the sprint
+
+506
+00:36:35,440 --> 00:36:39,509
+the first day um and during
+the week um they might
+
+507
+00:36:39,521 --> 00:36:43,440
+have depending on how
+big the backlog is and how
+
+508
+00:36:43,810 --> 00:36:47,554
+often the requirements
+are changing and how
+
+509
+00:36:47,566 --> 00:36:51,760
+confident everyone is
+to refine the backlog they
+
+510
+00:36:51,761 --> 00:36:55,308
+will have sessions to
+refine the backlog where um
+
+511
+00:36:55,320 --> 00:36:58,880
+you are probably the
+business analyst is probably
+
+512
+00:36:58,881 --> 00:37:02,669
+the driver of that uh
+session um they they get
+
+513
+00:37:02,681 --> 00:37:06,400
+the priority from product
+managers and owners
+
+514
+00:37:07,380 --> 00:37:10,568
+and they look at all
+the sprint tasks that are
+
+515
+00:37:10,580 --> 00:37:13,920
+sitting in the backlog
+and they refine them they
+
+516
+00:37:13,921 --> 00:37:17,338
+review them with the team
+they get inputs as much
+
+517
+00:37:17,350 --> 00:37:20,640
+as they can they identify
+risks and assumptions
+
+518
+00:37:20,641 --> 00:37:23,682
+and dependencies
+and make sure all of it is
+
+519
+00:37:23,694 --> 00:37:26,960
+documented right that's
+the refinement session
+
+520
+00:37:27,035 --> 00:37:30,702
+um if the backlog uh if
+the developers need a
+
+521
+00:37:30,714 --> 00:37:34,640
+session for development
+side of things they also
+
+522
+00:37:34,641 --> 00:37:37,908
+can have an hour session
+right during the week um
+
+523
+00:37:37,920 --> 00:37:41,200
+in the end of the sprint
+usually there's a sprint
+
+524
+00:37:41,201 --> 00:37:44,171
+review if there are
+deliverable products by the
+
+525
+00:37:44,183 --> 00:37:47,040
+end of the sprint they
+review the development
+
+526
+00:37:47,041 --> 00:37:50,268
+done so far with the
+stakeholders just to get
+
+527
+00:37:50,280 --> 00:37:53,520
+their alignment and you
+know thumbs up on the
+
+528
+00:37:53,521 --> 00:37:56,986
+things developed they
+want to make sure everything
+
+529
+00:37:56,998 --> 00:37:59,920
+is developed according
+to the requirements
+
+530
+00:37:59,921 --> 00:38:02,748
+sometimes um things
+are lost in translation they
+
+531
+00:38:02,760 --> 00:38:05,600
+want to make sure that
+the definition of done is
+
+532
+00:38:07,280 --> 00:38:11,184
+achieved right um then
+um there's also time for
+
+533
+00:38:11,196 --> 00:38:15,280
+retro where retrospective
+is more um looking back
+
+534
+00:38:15,281 --> 00:38:19,066
+into things uh on how
+the sprint went and if there
+
+535
+00:38:19,078 --> 00:38:22,800
+were any challenges for
+the team if there was any
+
+536
+00:38:22,801 --> 00:38:26,033
+learnings if anyone had
+done a very good job at
+
+537
+00:38:26,045 --> 00:38:29,360
+you know like working
+with the team and bringing
+
+538
+00:38:29,361 --> 00:38:32,908
+it together you know
+that is a time when they
+
+539
+00:38:32,920 --> 00:38:36,480
+reflect on the past
+sprint and make sure that
+
+540
+00:38:37,520 --> 00:38:41,593
+any learnings outcomes
+anything they can improve
+
+541
+00:38:41,605 --> 00:38:45,520
+the team's functioning
+um that is incorporated
+
+542
+00:38:45,521 --> 00:38:48,271
+into the next thing so
+it's the scrum master's job
+
+543
+00:38:48,283 --> 00:38:50,880
+to pay attention to that
+and make sure that the
+
+544
+00:38:51,040 --> 00:38:54,942
+team team's problems
+are heard and yeah ensure
+
+545
+00:38:54,954 --> 00:38:59,040
+everything is good so
+that's the last day of the
+
+546
+00:38:59,041 --> 00:39:02,430
+sprint uh this is basically
+the documentation
+
+547
+00:39:02,442 --> 00:39:05,920
+i've uh i've put together
+for you just to give
+
+548
+00:39:05,921 --> 00:39:09,182
+you an end-to-end picture
+um if this information
+
+549
+00:39:09,194 --> 00:39:12,400
+is very redundant you
+might have some practical
+
+550
+00:39:12,401 --> 00:39:15,428
+questions to ask me
+at this point um if i've
+
+551
+00:39:15,440 --> 00:39:18,480
+clarified your answers
+like i'd like to know
+
+552
+00:39:18,580 --> 00:39:21,365
+um if you if you have
+any feedback i'd like
+
+553
+00:39:21,377 --> 00:39:24,240
+to know um so that's
+the end of this present
+
+554
+00:39:26,205 --> 00:39:29,600
+over to you guys if you have
+any questions for me or feedback
+
+555
+00:39:29,601 --> 00:39:33,040
+or if you want to see anything else
+or know anything else let me know
+
+556
+00:39:35,490 --> 00:39:39,520
+so i got one question you mentioned
+about this akeel uh you mentioned about
+
+557
+00:39:41,040 --> 00:39:44,985
+product honor right
+while explaining this print
+
+558
+00:39:44,997 --> 00:39:49,040
+and um and the yeah the
+scrum cycle i don't know
+
+559
+00:39:49,041 --> 00:39:55,120
+which slide it was uh yeah so you were just
+bringing that particular uh designation to
+
+560
+00:39:55,121 --> 00:39:58,909
+explain the scrum or
+there's certain uh you know
+
+561
+00:39:58,921 --> 00:40:02,880
+protocols need to be
+followed based on designation
+
+562
+00:40:02,980 --> 00:40:06,287
+or scrum is equal for
+every every designation
+
+563
+00:40:06,299 --> 00:40:09,840
+no matter if it is c-level
+or developer whatever
+
+564
+00:40:10,050 --> 00:40:14,013
+you got my question um
+like any special attention
+
+565
+00:40:14,025 --> 00:40:18,000
+need to be taken by
+product owner that's what i'm
+
+566
+00:40:18,001 --> 00:40:22,560
+trying to say while he's using the scrum in
+a in a layman language that's my question
+
+567
+00:40:27,680 --> 00:40:35,680
+oh any rules per se yeah let's say
+yeah let's say um let's say a person um is
+
+568
+00:40:35,681 --> 00:40:39,542
+is holding a position
+called product owner correct
+
+569
+00:40:39,554 --> 00:40:43,040
+yeah and then he got
+his user story uh in the
+
+570
+00:40:43,520 --> 00:40:47,508
+system so does he have
+he or she have to really
+
+571
+00:40:47,520 --> 00:40:51,520
+focus on certain things
+or the all the rule for
+
+572
+00:40:51,521 --> 00:40:54,680
+scrum is equal for
+everyone like ajal is for
+
+573
+00:40:54,692 --> 00:40:58,080
+everyone because i'm i'm
+coming from background
+
+574
+00:40:58,081 --> 00:41:01,987
+let's say if i need to
+evaluate someone is working
+
+575
+00:41:01,999 --> 00:41:05,840
+with me as a product
+owner what exactly i need to
+
+576
+00:41:07,760 --> 00:41:11,748
+check while you know over
+weaving his scrum board
+
+577
+00:41:11,760 --> 00:41:15,760
+so product owners they
+usually uh own the product
+
+578
+00:41:15,761 --> 00:41:18,991
+backlog right so they
+know what user stories
+
+579
+00:41:19,003 --> 00:41:22,320
+there are they have to
+be able to give you um
+
+580
+00:41:22,321 --> 00:41:25,988
+the details and you
+know the insight into what
+
+581
+00:41:26,000 --> 00:41:29,760
+a user story should
+contain what the acceptance
+
+582
+00:41:29,761 --> 00:41:32,922
+criteria is so they
+basically define the product
+
+583
+00:41:32,934 --> 00:41:36,240
+for you they understand
+the vision from the higher
+
+584
+00:41:36,241 --> 00:41:39,697
+level management and
+they're supposed to translate
+
+585
+00:41:39,709 --> 00:41:43,040
+that to you guys if you
+are the developer ensure
+
+586
+00:41:43,041 --> 00:41:45,412
+that all of the
+vision is put into the
+
+587
+00:41:45,424 --> 00:41:48,560
+requirements which is
+nothing but the user stories
+
+588
+00:41:49,160 --> 00:41:52,498
+so they are very actively
+participating in the
+
+589
+00:41:52,510 --> 00:41:56,080
+product refinement sessions
+which are the backlog
+
+590
+00:41:56,081 --> 00:41:58,979
+grooming sessions
+because that is where their
+
+591
+00:41:58,991 --> 00:42:02,160
+input is required and
+also during sprint planning
+
+592
+00:42:02,161 --> 00:42:05,820
+where they prioritize
+the user stories that
+
+593
+00:42:05,832 --> 00:42:09,760
+are brought into the
+sprint so and during this
+
+594
+00:42:09,860 --> 00:42:12,494
+sprint also if there
+are any questions for
+
+595
+00:42:12,506 --> 00:42:15,280
+developers you know
+they during the stand-up
+
+596
+00:42:15,281 --> 00:42:18,008
+they attend the stand-up
+so the developers are
+
+597
+00:42:18,020 --> 00:42:20,880
+talking about the things
+that they're developing
+
+598
+00:42:20,881 --> 00:42:23,508
+for that day and if they
+have questions they
+
+599
+00:42:23,520 --> 00:42:26,400
+follow up with the product
+owner to give clarity
+
+600
+00:42:27,400 --> 00:42:30,762
+so that is their role
+basically and at the end of
+
+601
+00:42:30,774 --> 00:42:34,080
+this sprint there when
+you are as a developer if
+
+602
+00:42:34,081 --> 00:42:37,257
+you're reviewing a
+certain capability right so
+
+603
+00:42:37,269 --> 00:42:40,320
+the product owners
+are just making sure that
+
+604
+00:42:40,520 --> 00:42:44,080
+you know the requirement and
+the vision has been achieved
+
+605
+00:42:47,580 --> 00:42:54,880
+okay yeah they are part of scrum because
+they ask the important people right to
+
+606
+00:42:54,881 --> 00:42:59,680
+translate the business
+requirements for you guys so yeah
+
+607
+00:43:00,950 --> 00:43:04,320
+i hope i answered your question do
+you have a follow-up question no that's
+
+608
+00:43:07,860 --> 00:43:14,960
+that's good thank you so much
+appreciate it of course anybody else
+
+609
+00:43:31,760 --> 00:43:34,960
+okay
+
+610
+00:43:43,920 --> 00:43:47,867
+okay i see this widget
+has a comment but it's not
+
+611
+00:43:47,879 --> 00:43:51,920
+related to the ppt so i'd
+let shweta or chris take
+
+612
+00:43:51,921 --> 00:43:59,280
+it up so guys i think that's the end of the
+session thanks for joining i think shweta
+
+613
+00:43:59,330 --> 00:44:02,648
+and chris will guide you
+through the next steps
+
+614
+00:44:02,660 --> 00:44:05,920
+you will be receiving an
+assessment from me or
+
+615
+00:44:06,880 --> 00:44:10,741
+from the team and i
+would expect you to return
+
+616
+00:44:10,753 --> 00:44:14,880
+it in a day or two so i
+can review your learnings
+
+617
+00:44:14,881 --> 00:44:18,914
+and insights and i'm
+looking forward for you to
+
+618
+00:44:18,926 --> 00:44:22,800
+incorporating the
+learnings from this session
+
+619
+00:44:22,801 --> 00:44:28,480
+and all your sessions previously into that
+assessment it's kind of a holistic approach
+
+620
+00:44:28,481 --> 00:44:30,969
+to understand where
+you are stand and how you
+
+621
+00:44:30,981 --> 00:44:33,760
+understand it also it's
+also to help you basically
+
+622
+00:44:33,761 --> 00:44:37,387
+to understand you know
+the basic concepts and
+
+623
+00:44:37,399 --> 00:44:41,200
+how to apply it in a
+day-to-day scenarios right
+
+624
+00:44:41,500 --> 00:44:48,000
+when you're working as a business analyst
+so just ponder upon the questions and
+
+625
+00:44:48,001 --> 00:44:56,000
+try to answer based on the level of
+understanding sorry what was that
+
+626
+00:44:59,540 --> 00:45:03,318
+okay yeah just you know
+i know a lot of you want
+
+627
+00:45:03,330 --> 00:45:07,200
+to use chat gpt but if
+you do that then you won't
+
+628
+00:45:07,885 --> 00:45:11,810
+learn anything from you
+know it's really hard to
+
+629
+00:45:11,822 --> 00:45:15,760
+understand what the
+questions actually are meant
+
+630
+00:45:17,240 --> 00:45:20,958
+to do for you so i
+want you to take the full
+
+631
+00:45:20,970 --> 00:45:25,040
+benefit of it and there's
+no harsh assessment or
+
+632
+00:45:25,041 --> 00:45:28,988
+you know ruling on any
+of that any of your answers
+
+633
+00:45:29,000 --> 00:45:32,880
+if there is something that
+seems out of whack for
+
+634
+00:45:33,360 --> 00:45:37,390
+me then i will make sure
+to respond and you know
+
+635
+00:45:37,402 --> 00:45:41,360
+guide you in the right
+direction just take full
+
+636
+00:45:41,361 --> 00:45:44,013
+advantage of these
+sessions so that you're
+
+637
+00:45:44,025 --> 00:45:46,880
+learning and you know
+just bettering yourself
+
+638
+00:45:46,881 --> 00:45:50,708
+at what you do for the
+future you're welcome to
+
+639
+00:45:50,720 --> 00:45:54,560
+ask me any questions
+and respond to that thread
+
+640
+00:45:54,561 --> 00:45:57,855
+email thread you you'll
+have with me so thank you
+
+641
+00:45:57,867 --> 00:46:01,040
+all shweta over to you
+if you have anything for
+
+642
+00:46:23,600 --> 00:46:25,938
+the team um chris are
+you on oh i don't see any
+
+643
+00:46:25,950 --> 00:46:28,400
+of these guys on so i'll
+let you adjourn and then
+
+644
+00:46:28,401 --> 00:46:31,911
+i'll have the team reach
+out to you regarding
+
+645
+00:46:31,923 --> 00:46:35,760
+this estimate okay have
+a great evening talk soon
+
+646
+00:46:39,140 --> 00:46:43,840
+thank you so much thank you thank you
+
+647
+00:47:00,400 --> 00:47:08,400
+[BLANK_AUDIO]
+
